@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Li Xiang&#39;s blog</title>
+  
+  <subtitle>理想之国</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.lixiang-io.cn/"/>
+  <updated>2022-02-20T04:39:53.989Z</updated>
+  <id>https://blog.lixiang-io.cn/</id>
+  
+  <author>
+    <name>Lixiang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hadoop3.2.0伪分布式系统搭建</title>
+    <link href="https://blog.lixiang-io.cn/2019/03/17/hadoop3-2-0-wei-fen-bu-shi-xi-tong-da-jian/"/>
+    <id>https://blog.lixiang-io.cn/2019/03/17/hadoop3-2-0-wei-fen-bu-shi-xi-tong-da-jian/</id>
+    <published>2019-03-17T14:46:00.000Z</published>
+    <updated>2022-02-20T04:39:53.989Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;本文基于Ubuntu16.04和Hadoop3.2.0从零搭建单机伪分布式系统，并成功运行Hadoop官方wordcount示例。
+    
+    </summary>
+    
+    
+      <category term="Distributed System" scheme="https://blog.lixiang-io.cn/tags/Distributed-System/"/>
+    
+      <category term="Hadoop" scheme="https://blog.lixiang-io.cn/tags/Hadoop/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>仙人掌图专题</title>
+    <link href="https://blog.lixiang-io.cn/2018/11/03/xian-ren-zhang-tu-zhuan-ti/"/>
+    <id>https://blog.lixiang-io.cn/2018/11/03/xian-ren-zhang-tu-zhuan-ti/</id>
+    <published>2018-11-03T21:17:00.000Z</published>
+    <updated>2022-02-20T04:39:53.989Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Attention&quot;&gt;&lt;a href=&quot;#Attention&quot; class=&quot;headerlink&quot; title=&quot;Attention&quot;&gt;&lt;/a&gt;Attention&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;本文基本转载，极少原创，转载来源见Reference&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="OI/ACM" scheme="https://blog.lixiang-io.cn/categories/OI-ACM/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.lixiang-io.cn/2018/11/02/hello-world/"/>
+    <id>https://blog.lixiang-io.cn/2018/11/02/hello-world/</id>
+    <published>2018-11-02T21:41:00.000Z</published>
+    <updated>2022-02-20T04:39:53.989Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;pre class=&quot; language-C++&quot;&gt;&lt;code class=&quot;language-C++&quot;&gt;#include &lt;stdio.h&gt;
+int main()
+{
+    printf(&quot;Hello, World!\n&quot;);
+    return
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
