@@ -19,7 +19,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '10.15'
+          node-version: '12.16.2'
 
       - name: Setup Hexo
         env:
@@ -32,6 +32,8 @@ jobs:
           ssh-keyscan github.com >> ~/.ssh/known_hosts
           git config --global user.email "lixiang99410@126.com"
           git config --global user.name "lixiang"
+          npm install acorn -g
+          npm install eslint -g
           npm install hexo-cli -g
           npm install
 
